@@ -99,4 +99,4 @@ Clean text is way easier for our AI to understand than raw HTML clutter. It lets
 
 In the next chapter, we’ll handle long texts by chopping them into manageable chunks — because AI models have input size limits! 🪓📚
 
-[Next Chapter: Content Chunking](04_content_chunking_.md)🚀
+[Next Chapter: Content Chunking](04 content_chunking_.md)🚀
